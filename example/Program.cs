@@ -1,4 +1,7 @@
-﻿double num1 = 10;
-double num2 = 35;
-double res = num2 / num1;
-Console.WriteLine(res);
+﻿Console.Write("Введите числовое значение: ");
+int num = new Random().Next(100, 1000);
+Console.WriteLine(num);
+int a = num / 100;
+int b = num % 10;
+Console.WriteLine(a);
+Console.WriteLine(b);

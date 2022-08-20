@@ -1,0 +1,15 @@
+H:\git2\ex\bin\Debug\net7.0\ex.exe
+H:\git2\ex\bin\Debug\net7.0\ex.deps.json
+H:\git2\ex\bin\Debug\net7.0\ex.runtimeconfig.json
+H:\git2\ex\bin\Debug\net7.0\ex.dll
+H:\git2\ex\bin\Debug\net7.0\ex.pdb
+H:\git2\ex\obj\Debug\net7.0\ex.csproj.AssemblyReference.cache
+H:\git2\ex\obj\Debug\net7.0\ex.GeneratedMSBuildEditorConfig.editorconfig
+H:\git2\ex\obj\Debug\net7.0\ex.AssemblyInfoInputs.cache
+H:\git2\ex\obj\Debug\net7.0\ex.AssemblyInfo.cs
+H:\git2\ex\obj\Debug\net7.0\ex.csproj.CoreCompileInputs.cache
+H:\git2\ex\obj\Debug\net7.0\ex.dll
+H:\git2\ex\obj\Debug\net7.0\refint\ex.dll
+H:\git2\ex\obj\Debug\net7.0\ex.pdb
+H:\git2\ex\obj\Debug\net7.0\ex.genruntimeconfig.cache
+H:\git2\ex\obj\Debug\net7.0\ref\ex.dll
